@@ -5,24 +5,35 @@
   <title>COVID - 19 India Tracker</title>
   <link rel="icon" href="./img/logo.png" type="image">
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <h1 class="display-4 text-center">COVID - 19 India Case Time Series</h1>
-  <table class="table table-dark table-striped table-hover table-bordered">
+  <table class="table table-dark table-striped table-bordered">
     <thead class="thead-dark text-center">
       <tr>
-        <th scope="col">#</th>
-        <th scope="col">Date</th>
-        <th scope="col">Daily Confirmed</th>
-        <th scope="col">Daily Recovered</th>
-        <th scope="col">Daily Deceased</th>
-        <th scope="col">Total Confirmed</th>
-        <th scope="col">Total Recovered</th>
-        <th scope="col">Total Deceased</th>
+        <th scope="col" class="headerFixed">#</th>
+        <th scope="col" class="headerFixed">Date</th>
+        <th scope="col" class="headerFixed">Daily Confirmed</th>
+        <th scope="col" class="headerFixed">Daily Recovered</th>
+        <th scope="col" class="headerFixed">Daily Deceased</th>
+        <th scope="col" class="headerFixed">Total Confirmed</th>
+        <th scope="col" class="headerFixed">Total Recovered</th>
+        <th scope="col" class="headerFixed">Total Deceased</th>
       </tr>
     </thead>
     <tbody id="tableBody" class="text-center"></tbody>
   </table>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-copyright text-center py-3">
+    Copyright © 2020 Karthick | All Rights Reserved | 🙏 to 
+    <a href="https://www.covid19india.org/">Covid19india.org </a> for API Live Data
+    </div>
+  </footer>
+  <!-- Footer -->
+
   <script  src="./js/script.js"></script>
 </body>
 </html>

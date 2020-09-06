@@ -4,7 +4,7 @@ const API_URL = 'https://api.covid19india.org/data.json';
 async function getCovidData(url) {
   const res = await fetch(url);
   const data = await res.json();
-  const cases_time_series = data.cases_time_series.slice(0);
+  const cases_time_series = data.cases_time_series;
   const outputHtml = cases_time_series
     .map(
       (data, idx) =>
