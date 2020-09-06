@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.headerFixed{
+	top: -1px;
+	position: sticky;
+}
+
+.footer{
+	background-color: #43494E;
+	margin-top: -17px;
+	color: #fff;
+}
+
+.footer a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.footer a:hover{
+	text-decoration: underline;
+}
