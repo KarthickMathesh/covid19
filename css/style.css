@@ -9,6 +9,7 @@
 }
 
 .footer{
+	width: 100% !important;
 	background-color: #43494E;
 	margin-top: -17px;
 	color: #fff;
