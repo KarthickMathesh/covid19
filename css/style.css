@@ -7,19 +7,3 @@
 	top: -1px;
 	position: sticky;
 }
-
-.footer{
-	width: 100% !important;
-	background-color: #43494E;
-	margin-top: -17px;
-	color: #fff;
-}
-
-.footer a{
-	text-decoration: none;
-	color: #fff;
-}
-
-.footer a:hover{
-	text-decoration: underline;
-}
