@@ -3,15 +3,15 @@
 - https://karthickmathesh.github.io/covid19/ (Demo)
 
 ## Highlights
-
-	1. Data available from day one.
-	2. Contents available for analytistics
-   	1. Lists date wise confirmed count.	
-   	2. Lists date wise recovered count.	
-   	3. Lists date wise decreased count.	
-   	4. Lists total confirmed count.
-   	5. Lists total recovered count.	
-   	6. Lists total decreased count.
+  - List of datas availble for analytics
+    - Daily data (Fully Updates at Night)
+    	- Date wise confirmed count	
+    	- Date wise recovered count	
+    	- Date wise decreased count	
+  	- Total data from day one
+    	- Total confirmed count
+    	- Total recovered count	
+    	- Total decreased count
 
 ## Credits
 	All Credits goes to https://www.covid19india.org/ for data.
