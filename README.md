@@ -14,4 +14,4 @@
     	- Total decreased count
 
 ## Credits
-	All Credits goes to https://covid19india.org/ for live data.
+	All Credits goes to https://www.covid19india.org/ for live data.
