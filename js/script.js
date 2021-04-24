@@ -10,7 +10,7 @@ async function getCovidData(url) {
       (data, idx) =>
         `<tr>
           <th scope="row">${idx + 1}</th>
-          <td>${data.date + 2020}</td>
+          <td>${data.date}</td>
           <td>${data.dailyconfirmed}</td>
           <td>${data.dailyrecovered}</td>
           <td>${data.dailydeceased}</td>
