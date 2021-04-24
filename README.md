@@ -8,7 +8,7 @@
     	- Date wise confirmed count	
     	- Date wise recovered count	
     	- Date wise decreased count	
-  	- Total data from day one
+  	- Total Covid Cases from **Day One**
     	- Total confirmed count
     	- Total recovered count	
     	- Total decreased count
