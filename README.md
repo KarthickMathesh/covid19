@@ -14,4 +14,6 @@
     	- Total decreased count
 
 ## Credits
-	All Credits goes to <https://www.covid19india.org/> for live data.
+	All Credits goes to https://www.covid19india.org/ for live data.
+	
+![Image of Yaktocat](/img/logo.png)
